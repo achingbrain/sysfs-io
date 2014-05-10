@@ -1,0 +1,27 @@
+{
+  "name": "sysfs-io",
+  "version": "0.0.1",
+  "description": "Johnny-Five io plugin that works via Linux sysfs",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/achingbrain/sysfs-io.git"
+  },
+  "dependencies": {
+    "ioboard": "^3.0.0",
+    "async": "^0.7",
+    "map-range": "^0.1"
+  },
+  "keywords": [
+    "node",
+    "firmata",
+    "servo",
+    "sysfs",
+    "io",
+    "ioboard"
+  ],
+  "author": {
+    "name": "Alex Potsides"
+  },
+  "license": "BSD"
+}
